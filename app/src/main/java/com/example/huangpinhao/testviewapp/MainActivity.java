@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 //            }
 //        });
         System.out.println("I Love kevin");
-        System.out.println("But kevin don't Love  me ,he love ");
+        System.out.println("But kevin don't Love  me ,he love xx");
 
     }
 
