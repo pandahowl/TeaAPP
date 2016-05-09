@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
 //                        .setAction("Action", null).show();
 //            }
 //        });
+        System.out.println("I Love kevin");
     }
 
     @Override
